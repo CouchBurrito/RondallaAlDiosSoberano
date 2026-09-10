@@ -4,7 +4,9 @@
 - Upload pdfs of songs
 - Calendar view to show list of songs for a given day
 
-# Languages and libraries used:
+# FrontEnd:
+- Vue.js
 
--Rust
+# BackEnd:
+- Axum/Rust
 
