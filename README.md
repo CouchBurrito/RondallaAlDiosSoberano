@@ -1,12 +1,12 @@
 #   Song Calendar
 
-#   Purpose:
+##   Purpose:
 - Upload pdfs of songs
 - Calendar view to show list of songs for a given day
 
-# FrontEnd:
+## FrontEnd:
 - Vue.js
 
-# BackEnd:
+## BackEnd:
 - Axum/Rust
 
